@@ -17,10 +17,10 @@ Finite automata are abstract machines used to recognize patterns in input sequen
    * a. Provide a function in your grammar type/class that could classify the grammar based on Chomsky hierarchy.
    * b. For this you can use the variant from the previous lab.
 3. According to your variant number (9) , get the finite automaton definition and do the following tasks:
--[x] Implement conversion of a finite automaton to a regular grammar.
--[x] Determine whether your FA is deterministic or non-deterministic.
--[x] Implement some functionality that would convert an NDFA to a DFA.
--[x] Represent the finite automaton graphically (Optional, and can be considered as a bonus point)
+   * Implement conversion of a finite automaton to a regular grammar.
+   * Determine whether your FA is deterministic or non-deterministic.
+   * Implement some functionality that would convert an NDFA to a DFA.
+   * Represent the finite automaton graphically (Optional, and can be considered as a bonus point)
 
 
 ## Implementation description
