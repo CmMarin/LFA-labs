@@ -22,7 +22,7 @@ Finite automata are abstract machines used to recognize patterns in input sequen
    * Implement some functionality that would convert an NDFA to a DFA.
    * Represent the finite automaton graphically (Optional, and can be considered as a bonus point)
 
-
+ 
 ## Implementation description
 
 ### Task 2:
